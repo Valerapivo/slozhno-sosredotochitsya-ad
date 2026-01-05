@@ -217,3 +217,18 @@
   width: 50%;
   line-height: 23.4px;
 }
+
+.footer {
+  padding: 282px 20px;
+  position: relative;
+  text-align: center;
+  height: 100vh;
+  min-height: 668px;
+}
+
+.footer__title {
+  font-size: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
+  font-weight: 700;
+  color: var(--title-color);
+  text-shadow: 2px 2px 0px var(--title-shadow);
+}
