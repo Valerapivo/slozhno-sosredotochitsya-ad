@@ -1,1 +1,0 @@
-https://github.com/Valerapivo/slozhno-sosredotochitsya-ad
